@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/greating/static/css/main.54a191e9.css",
+    "main.js": "/greating/static/js/main.21219b01.js",
+    "index.html": "/greating/index.html",
+    "main.54a191e9.css.map": "/greating/static/css/main.54a191e9.css.map",
+    "main.21219b01.js.map": "/greating/static/js/main.21219b01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54a191e9.css",
+    "static/js/main.21219b01.js"
+  ]
+}
