@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+
+  background-color: rgb(126, 242, 250);
+  
+}
+.d{
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+  
+}
+
+
